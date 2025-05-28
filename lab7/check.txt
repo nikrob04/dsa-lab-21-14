@@ -1,0 +1,12 @@
+(5, 5, 5), "equilateral"
+
+(5, 5, 3), "isosceles"
+
+(4, 5, 6), "nonequilateral"
+
+   
+(-1, 2, 2) (IncorrectTriangleSides):
+
+(0, 4, 5)(IncorrectTriangleSides):
+
+(1, 2, 10)(IncorrectTriangleSides):
